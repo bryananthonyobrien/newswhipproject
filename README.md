@@ -1,5 +1,6 @@
 
-📝 Instructions for Testing and Running the Project
+Instructions for Testing and Running the Project
+
 📥 Step 1: Extract the ZIP File
 After receiving the newswhipproject.zip file, extract it:
 unzip newswhipproject.zip
@@ -53,7 +54,6 @@ example.com;1;10
 
 📞 Contact
 For any issues, contact Bryan O'Brien at: 📧 Email: bryananthonyobrien@yahoo.co.uk
-📞 Phone: +353 87 357 4736
 
 🎉 You’re Done!
 If you followed all steps correctly, the project should compile, run tests successfully, and execute properly. 🚀
